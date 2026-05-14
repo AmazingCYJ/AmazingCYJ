@@ -24,23 +24,6 @@
   <img src="https://komarev.com/ghpvc/?username=AmazingCYJ&style=flat-square&color=00e5ff&label=Profile+Views" alt="Profile views" />
 </p>
 
----
-
-## Focus
-
-```yaml
-name: AmazingCYJ
-identity: AI-era full-stack engineer
-interests:
-  - Go backend
-  - Retrieval-Augmented Generation
-  - AI Agent development
-currently_building:
-  - AgentRAG
-  - kvix
-style: cyber anime, practical engineering
-```
-
 ## Tech Stack
 
 <p align="center">
@@ -88,11 +71,6 @@ style: cyber anime, practical engineering
 </table>
 
 ## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmazingCYJ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=FF4FD8" alt="AmazingCYJ GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingCYJ&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="AmazingCYJ top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AmazingCYJ&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4FD8&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
