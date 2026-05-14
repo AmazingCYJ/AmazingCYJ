@@ -1,153 +1,107 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="AmazingCYJ anime coding banner" width="100%" />
+  <img src="./assets/cyber-agent-banner.png" alt="Cyber anime AI engineer banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm AmazingCYJ</h1>
+<h1 align="center">AmazingCYJ</h1>
+
+<p align="center">
+  <b>AI 时代的全栈工程师，热衷 Agent 开发。</b>
+</p>
 
 <p align="center">
   <a href="https://github.com/AmazingCYJ">
-    <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+QingKe+HuangYou&size=24&duration=2600&pause=900&color=FF77B7&center=true&vCenter=true&width=720&lines=Go+Backend+Developer;Storage+Engine+Explorer;Agent+%26+RAG+Builder;Keep+shipping%2C+keep+learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=900&color=00E5FF&center=true&vCenter=true&width=720&lines=Go+Backend+%2F+RAG+%2F+AI+Agent;Building+agentic+systems+with+clear+engineering;Full-stack+engineer+for+the+AI+era" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmazingCYJ&style=flat-square&color=ff77b7&label=PROFILE+VIEWS" alt="profile views" />
-  <img src="https://img.shields.io/badge/Style-Anime%20Terminal-ff77b7?style=flat-square" alt="anime terminal style" />
-  <img src="https://img.shields.io/badge/Focus-Go%20%7C%20Storage%20%7C%20RAG-58c7ff?style=flat-square" alt="focus badge" />
+  <a href="https://amazingcyj.github.io">
+    <img src="https://img.shields.io/badge/Blog-amazingcyj.github.io-00E5FF?style=flat-square&logo=githubpages&logoColor=111827" alt="Blog" />
+  </a>
+  <a href="mailto:AmazingCyj@163.com">
+    <img src="https://img.shields.io/badge/Email-AmazingCyj%40163.com-FF4FD8?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AmazingCYJ&style=flat-square&color=00e5ff&label=Profile+Views" alt="Profile views" />
 </p>
 
 ---
 
-## About Me
+## Focus
 
 ```yaml
 name: AmazingCYJ
-role: Backend Developer
-main_stack:
-  - Go
-  - PostgreSQL
-  - Storage Engine
-  - Agent / RAG
-current_focus:
-  - building AgentRAG
-  - designing Bitcask-style KV storage
-  - improving backend architecture and readable docs
-vibe: "二次元工坊里写可靠后端"
+identity: AI-era full-stack engineer
+interests:
+  - Go backend
+  - Retrieval-Augmented Generation
+  - AI Agent development
+currently_building:
+  - AgentRAG
+  - kvix
+style: cyber anime, practical engineering
 ```
 
-## Tech Palette
+## Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,git,github,linux,vscode&theme=light" alt="skills" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,postgres,redis,docker,linux,git,github,ts,react,vscode&theme=dark" alt="Tech stack icons" />
 </p>
 
 <table>
   <tr>
-    <td><b>Backend</b></td>
-    <td>Go, API design, service architecture, testing</td>
+    <td width="33%"><b>Go Backend</b></td>
+    <td>Service architecture, API design, storage-oriented engineering, tests and tooling.</td>
   </tr>
   <tr>
-    <td><b>Storage</b></td>
-    <td>Bitcask-style KV, append-only log, index design, recovery flow</td>
+    <td width="33%"><b>RAG</b></td>
+    <td>Knowledge retrieval, local data workflows, PostgreSQL-backed experiments.</td>
   </tr>
   <tr>
-    <td><b>AI Apps</b></td>
-    <td>Agent workflow, RAG, local data service, PostgreSQL integration</td>
-  </tr>
-  <tr>
-    <td><b>Craft</b></td>
-    <td>Readable code, clear module boundaries, practical documentation</td>
+    <td width="33%"><b>AI Agent</b></td>
+    <td>Agent runtime, tool orchestration, practical AI application development.</td>
   </tr>
 </table>
 
-## Featured Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3>AgentRAG</h3>
-      <p>Agent + RAG direction project with local PostgreSQL smoke-test workflow and configurable API runtime.</p>
+      <p>面向 Agent 与 RAG 场景的工程实践项目，包含本地 PostgreSQL 测试流程和可配置 API 运行方式。</p>
       <p>
         <a href="https://github.com/AmazingCYJ/AgentRAG">
-          <img src="https://img.shields.io/badge/View_Repo-18181B?style=for-the-badge&logo=github&logoColor=white" alt="AgentRAG repo" />
+          <img src="https://img.shields.io/badge/Open-Repository-00E5FF?style=for-the-badge&logo=github&logoColor=111827" alt="Open AgentRAG" />
         </a>
-        <img src="https://img.shields.io/badge/Go-58c7ff?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
       </p>
     </td>
     <td width="50%">
       <h3>kvix</h3>
-      <p>A Bitcask-style Go key-value store with append-only data files, pluggable indexes, startup recovery, Redis-style structures, and HTTP examples.</p>
+      <p>一个 Bitcask 风格的 Go 键值存储项目，关注追加写数据文件、索引定位、启动恢复与 Redis 风格结构封装。</p>
       <p>
         <a href="https://github.com/AmazingCYJ/kvix">
-          <img src="https://img.shields.io/badge/View_Repo-18181B?style=for-the-badge&logo=github&logoColor=white" alt="kvix repo" />
+          <img src="https://img.shields.io/badge/Open-Repository-FF4FD8?style=for-the-badge&logo=github&logoColor=white" alt="Open kvix" />
         </a>
-        <img src="https://img.shields.io/badge/Storage-ffd166?style=for-the-badge" alt="Storage" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>bitcask</h3>
-      <p>Go storage practice around the Bitcask model, focused on log-structured writes and key-position indexing.</p>
-      <p>
-        <a href="https://github.com/AmazingCYJ/bitcask">
-          <img src="https://img.shields.io/badge/View_Repo-18181B?style=for-the-badge&logo=github&logoColor=white" alt="bitcask repo" />
-        </a>
-        <img src="https://img.shields.io/badge/Go-58c7ff?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-      </p>
-    </td>
-    <td width="50%">
-      <h3>AmazingCYJ.github.io</h3>
-      <p>Personal site space for notes, experiments, and future portfolio pages.</p>
-      <p>
-        <a href="https://github.com/AmazingCYJ/AmazingCYJ.github.io">
-          <img src="https://img.shields.io/badge/View_Repo-18181B?style=for-the-badge&logo=github&logoColor=white" alt="site repo" />
-        </a>
-        <img src="https://img.shields.io/badge/Pages-9b5de5?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
       </p>
     </td>
   </tr>
 </table>
 
-## GitHub Status
+## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmazingCYJ&show_icons=true&hide_border=true&theme=radical&rank_icon=github" alt="AmazingCYJ GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingCYJ&layout=compact&hide_border=true&theme=radical" alt="AmazingCYJ top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmazingCYJ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3&icon_color=FF4FD8" alt="AmazingCYJ GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingCYJ&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=E6EDF3" alt="AmazingCYJ top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AmazingCYJ&theme=radical&hide_border=true&card_width=720" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AmazingCYJ&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4FD8&currStreakLabel=00E5FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="GitHub streak" />
 </p>
 
-## Current Quest Board
-
-<table>
-  <tr>
-    <td>Mission 01</td>
-    <td>Make AgentRAG easier to run, test, and extend.</td>
-  </tr>
-  <tr>
-    <td>Mission 02</td>
-    <td>Keep refining kvix around storage correctness, recovery, and documentation.</td>
-  </tr>
-  <tr>
-    <td>Mission 03</td>
-    <td>Turn learning notes into reusable demos and clean writeups.</td>
-  </tr>
-</table>
-
-## Connect
+## Contact
 
 <p align="center">
-  <a href="https://github.com/AmazingCYJ">
-    <img src="https://img.shields.io/badge/GitHub-AmazingCYJ-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://amazingcyj.github.io">
-    <img src="https://img.shields.io/badge/Blog-amazingcyj.github.io-ff77b7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Blog" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting. May your builds stay green and your logs stay readable.</b>
+  <a href="https://amazingcyj.github.io">Blog</a>
+  ·
+  <a href="mailto:AmazingCyj@163.com">AmazingCyj@163.com</a>
 </p>
